@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+// Huy dep trai
 /******************************************************************************
  * Support Functions: these functions below are optional. If you want your code
 					  to be clearer, you can implement them. However if you
